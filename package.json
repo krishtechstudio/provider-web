@@ -1,5 +1,5 @@
 {
-  "name": "@hashgreed/provider-web",
+  "name": "provider-web",
   "version": "1.0.0",
   "description": "A seed saver in a single website for Krosscoin",
   "main": "src/index.js",
