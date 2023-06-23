@@ -1,0 +1,13 @@
+{
+  "name": "@hashgreed/provider-web",
+  "version": "1.0.0",
+  "description": "A seed saver in a single website for Krosscoin",
+  "main": "src/index.js",
+  "type": "module",
+  "scripts": {},
+  "author": "KTS Hacx",
+  "license": "MIT",
+  "dependencies": {
+    "@waves/waves-transactions": "^4.2.10"
+  }
+}
